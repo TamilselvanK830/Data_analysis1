@@ -25,3 +25,8 @@ This repository contains my Python Data Analysis weekly assessment tasks.
 - NumPy
 - Jupyter Notebook
 - Git and GitHub
+- 
+## Learning Progress
+- Data Cleaning
+- Exploratory Data Analysis
+- 
