@@ -1,0 +1,400 @@
+Age,Gender,Education Level,Job Title,Years of Experience,Salary
+29,Male,Bachelor's,Sales Manager,2,93500
+38,Female,Associate's,Other,18,102500
+21,Female,PhD,Data Engineer,0,117500
+49,Male,Master's,HR Manager,22,145500
+42,Male,Bachelor's,Operations Manager,20,134500
+33,Male,High School,Sales Associate,7,31000
+33,Female,Master's,Software Engineer,9,123500
+39,Male,Master's,Sales Manager,8,112000
+34,Male,High School,Project Manager,5,96500
+34,Male,Bachelor's,Product Manager,8,141500
+42, male ,Master's,HR Manager,6,116000
+41,Male,Bachelor's,Data Analyst,14,112000
+35,Male,Master's,Other,13,109500
+35,Female,Associate's,Product Manager,1,112500
+37,Female,,Financial Analyst,14,107000
+30 years,Male,Master's,HR Manager,7,127500
+32,Male,Master's,Project Manager,12,160500
+41,Male,Bachelor's,Senior Manager,17,197000
+35,Female,Bachelor's,Software Engineer,6,93000
+24,Female,Bachelor's,Financial Analyst,8,99000
+32,Male,Master's,HR Manager,8,128000
+42,Male,Bachelor's,Sales Associate,25,93500
+34,Male, HIGH SCHOOL ,Data Scientist,2,106000
+35,Male,Master's,Data Analyst,10,89500
+42,Male,Associate's,,10,89000
+52,Male,Associate's,Operations Manager,28,153500
+30,Female,High School,Operations Manager,14,117500
+48,Male,Bachelor's,Other,25,141000
+25,Female,Bachelor's,Software Engineer,0,74500
+38,Female,Master's,Operations Manager,13,142000
+25,Male,Bachelor's,Data Analyst,0,68500
+48,Female,PhD,Data Engineer,27,189500
+44,Female,Bachelor's,Data Engineer,21,168000
+46,Male,Master's,  marketing analyst  ,17,104000
+28,Female,Bachelor's,Sales Associate,0,55000
+42,Male,Associate's,Customer Service Rep,11,76500
+31,Female,PhD,Sales Associate,11,95000
+32,Male,Master's,IT Support,16,121000
+41,Male,Master's,Data Engineer,24,182500
+44,Male,Associate's,Other,23,130000
+38,Female,High School,Operations Manager,15 yrs,133000
+30,Male,Bachelor's,Sales Manager,3,97000
+29,Female,High School,Data Analyst,14,112500
+49,Male,PhD,Customer Service Rep,32,155500
+41,Female,High School,Marketing Analyst,15,106000
+42,Male,Master's,Data Scientist,17,172000
+56,Male,Bachelor's,Senior Manager,33,227500
+29,Female,Bachelor's,Sales Associate,0,43500
+59,Female,Bachelor's,Marketing Analyst,34,152500
+62,Male,Bachelor's,Product Manager,33,191500
+51,Male,High School,Other,26,118500
+43,Male,Bachelor's,Financial Analyst,20,111000
+30,Male,PhD,Data Analyst,9,
+45,Male,Bachelor's,Software Engineer,29,169000
+32,Female,PhD,Financial Analyst,14,136000
+36,Male,Bachelor's,Data Scientist,13,"$125,000"
+33,Female,Master's,Senior Manager,13,185500
+39,Male,PhD,Other,18,121000
+48,Male,Bachelor's,Sales Manager,24,117000
+31,Male,Associate's,HR Manager,0,107000
+27,Male,PhD,Data Engineer,0,128500
+27,Female,Master's,Sales Associate,2,58000
+27,Female,Bachelor's,Operations Manager,7,105500
+23,Male,Bachelor's,Data Analyst,0,68000
+28,Female,Associate's,Product Manager,2,116000
+48,Female,PhD,Financial Analyst,27,182000
+31,Female,Associate's,Sales Manager,4,107500
+38,Male,High School,Software Engineer,13,98000
+25,Male,Bachelor's,Sales Associate,0,48500
+38,Female,Bachelor's,Data Engineer,0,100500
+21,Male,Master's,Data Engineer,0,106500
+30,Female,High School,HR Manager,3,87000
+56,Female,Master's,Data Analyst,33,167000
+31,Male,Associate's,Marketing Analyst,2,53500
+46,Male,Associate's,IT Support,25,131500
+40,Male,PhD,Data Analyst,15,131000
+35,Male,PhD,Marketing Analyst,20,114500
+30,Female,Associate's,Data Engineer,0,86500
+48,Female,Master's,Marketing Analyst,18,104000
+34,Male,Bachelor's,Software Engineer,14,128500
+50,Male,PhD,Operations Manager,17,172000
+30,Female,PhD,Financial Analyst,4,93000
+37,Female,Master's,Data Engineer,9,129000
+40,Female,Bachelor's,Data Engineer,14,127500
+39,Female,PhD,Sales Associate,15,125500
+25,Male,Associate's,Data Engineer,0,91500
+30,Female,Associate's,Project Manager,7,122500
+34,Male,Master's,Data Scientist,15,162000
+28,Female,Bachelor's,Marketing Analyst,0,69500
+42,Female,Master's,Senior Manager,18,196000
+41, male ,High School,Financial Analyst,12,96500
+21,Male,High School,Financial Analyst,0,74500
+21,Male,Master's,Software Engineer,0,82000
+24,Female,High School,Data Analyst,8,67500
+37,Female,Associate's,Operations Manager,8,111500
+54,Female,Associate's,Sales Manager,27,173000
+33,Female,Master's,Other,12,96000
+38,Female,Associate's,Customer Service Rep,10,62000
+26,Male,Associate's,Software Engineer,0,55500
+95,Female,Bachelor's,Data Scientist,0,121500
+36,Female,High School,Sales Associate,15,82500
+45,Female,High School,IT Support,25,104500
+33,Male,PhD,Customer Service Rep,16,116000
+49,Female,Bachelor's,Data Engineer,21,152500
+38,Male,PhD,Data Engineer,12,136500
+36,Male,Bachelor's,Sales Associate,19,81500
+41,Female,Bachelor's,Other,13,85000
+40,Male,Master's,Project Manager,10,121000
+46,Male,PhD,Marketing Analyst,11,117500
+29,Female,Master's,Data Scientist,4,139000
+21,Female,Master's,Software Engineer,0,79500
+37,Female,Master's,Data Engineer,20,169500
+30,Female,Master's,Software Engineer,0,93000
+36,Female,Master's,Product Manager,6,133000
+51,Male,High School,Product Manager,27,167500
+26,Male,Bachelor's,Product Manager,0,124500
+43,Male,High School,Project Manager,29,163500
+45,Male,High School,Other,19,108500
+40,Male,Master's,Senior Manager,13,183000
+46,Female,Associate's,Software Engineer,20,122000
+32,Female,PhD,Financial Analyst,3,88500
+30,Male,PhD,Customer Service Rep,1,60500
+45,Male,High School,Sales Manager,27,132500
+42,Male,Master's,Financial Analyst,15,130500
+49,Male,Bachelor's,Data Analyst,27,143500
+38,Female,PhD,Customer Service Rep,7,78500
+51,Male,Bachelor's,Data Analyst,24,122000
+33,Female,Master's,Sales Associate,3,44000
+26,Female,Master's,Product Manager,0,119500
+21,Female,Associate's,Software Engineer,0,60500
+26,Male,Master's,Data Engineer,12,143000
+43,Male,High School,Other,24,120500
+23,Female,PhD,Customer Service Rep,0,65500
+32,Female,High School,HR Manager,5,64000
+55,Female,Master's,Sales Associate,29,141500
+44,Male,Bachelor's,Financial Analyst,19,114500
+52,Female,High School,Data Engineer,22,150500
+27,Female,Master's,Data Analyst,6,80000
+21,Male,Bachelor's,HR Manager,0,87500
+50,Male,Bachelor's,Data Analyst,27,141500
+23,Male,Bachelor's,Project Manager,0,108000
+37,Female,High School,Software Engineer,11,97000
+38,Female,Associate's,Data Scientist,18,141000
+27,Female,Bachelor's,Marketing Analyst,7,59000
+50,Male,Bachelor's,Marketing Analyst,15,72500
+50,Female,Bachelor's,IT Support,21,89000
+41,Female,Master's,Data Analyst,12,127000
+36,Female,Associate's,Customer Service Rep,13,68500
+38,Male,Bachelor's,Other,15,96500
+26,Male,PhD,HR Manager,12,129500
+34,Male,,Project Manager,5,84000
+35,Male,High School,Financial Analyst,10,84000
+28,Female,High School,Operations Manager,0,93000
+44,Male,High School,Data Analyst,12,73000
+23,Male,Master's,Software Engineer,0,105500
+32,Male,High School,IT Support,5,74000
+21,Male,Master's,IT Support,0,63500
+40,Female,High School,HR Manager,17,123000
+43,Male,Master's,Data Scientist,13,149000
+42,Female,High School,Data Scientist,26,180000
+62,Male,PhD,Senior Manager,34,250000
+44,Male,Bachelor's,Software Engineer,20,130000
+28,Female,,Sales Manager,2,107000
+60,Male,PhD,Marketing Analyst,34,163500
+28,Male,Master's,Customer Service Rep,7,65500
+43,Female,High School,Software Engineer,21,107000
+43,Female,Bachelor's,Operations Manager,18,127000
+28,Male,High School,Software Engineer,7,91000
+49,Female,Bachelor's,Sales Manager,32,149500
+39,Female,Master's,Sales Manager,4,107500
+41,Female,PhD,Data Analyst,13,124500
+30,Male,PhD,Senior Manager,10,187000
+48,Male,Associate's,Other,25,108500
+28,Male,High School,Sales Associate,4,57500
+21,Male,Master's,Data Analyst,0,78000
+49,Female,High School,Other,29,131000
+32,Female,Bachelor's,Data Analyst,11,98500
+36,Male,Associate's,Sales Associate,7,40500
+53,Male,Master's,Data Engineer,14,121000
+46 years,Female,Master's,Product Manager,17,171500
+42,Female,Associate's,Software Engineer,17,145000
+46,Male,PhD,Financial Analyst,28,169500
+29,Female,High School,Software Engineer,1,95000
+43,Female,PhD,Software Engineer,23,150500
+46,Female,Bachelor's,Marketing Analyst,16,110500
+43,Male,Master's,Project Manager,19,170000
+34,Male,Master's,Software Engineer,13,114500
+21,Male,Bachelor's,Customer Service Rep,0,51500
+41,Male,High School,Product Manager,17,156000
+37,Female,Master's,Data Analyst,15,104500
+33,Male,Associate's,HR Manager,8,104500
+43,Female,High School,Sales Associate,7,74500
+38,Female,Master's,Software Engineer,11,123000
+38,Female,Bachelor's,Data Analyst,12,84500
+23,Male,Associate's,Other,7,64500
+23,Male,Bachelor's,Data Scientist,0,108000
+39,Female,Master's,Other,21,124000
+37,Female,Bachelor's,HR Manager,11,107000
+37,Male,Associate's,Data Scientist,13,114500
+37,Female,Associate's,Financial Analyst,38,112500
+40,Male,Bachelor's,Project Manager,15,137000
+36,Female,Bachelor's,Other,18,131500
+37,Male,Bachelor's,Project Manager,13,124500
+38,Male,Bachelor's,Data Engineer,18,134500
+44,Male,Bachelor's,Data Scientist,25,162500
+31,Male,Master's,Data Analyst,7,101500
+43,Female,Master's,Data Engineer,13,128500
+42,Male,PhD,Other,16,129500
+37,Male,Bachelor's,Software Engineer,16,130500
+32,Female,Bachelor's,Sales Associate,2,46000
+39,Female,Master's,Marketing Analyst,5,99500
+44,Male,Bachelor's,Sales Associate,26,111500
+26,Male,Bachelor's,Marketing Analyst,8,93500
+37,Female,Associate's,Sales Manager,3,94000
+37,Female,Bachelor's,Other,15,80500
+30,Male,Master's,Sales Associate,1,76000
+30,Female,Master's,Other,9,112000
+22,Female,PhD,Sales Associate,0,69000
+26,Male,High School,Sales Associate,0,65000
+22,Female,Bachelor's,IT Support,4,59000
+30,Male,Master's,Financial Analyst,0,89000
+31,Female,Bachelor's,Marketing Analyst,10,105000
+31,Male,Bachelor's,Financial Analyst,6,104500
+39,Male,Master's,Financial Analyst,16,119500
+,Female,Master's,Sales Manager,7,110500
+29,Female,PhD,Product Manager,1,130000
+30,Male,High School,Data Engineer,9,106000
+26,Female,PhD,Project Manager,0,110500
+34,Female,PhD,Operations Manager,10,132500
+34,Female,Bachelor's,Marketing Analyst,7,64000
+51,Male,PhD,Software Engineer,23,153500
+50,Female,Bachelor's,Sales Associate,27,108500
+49,Female,High School,Project Manager,24,154500
+55,Female,Bachelor's,Data Engineer,26,149000
+25,Male,Bachelor's,HR Manager,7,89000
+42,Female,Master's,Product Manager,18,159000
+43,Male,Master's,Operations Manager,7,106000
+40,Male,Bachelor's,Data Scientist,18,155000
+55,Female,Bachelor's,Marketing Analyst,22,110500
+59,Female,Bachelor's,Marketing Analyst,28,120000
+45,Male,Master's,Data Scientist,14,164000
+42,Female,Bachelor's,Data Engineer,12,123500
+26,Female,Bachelor's,Customer Service Rep,1,38500
+26,Female,Associate's,Sales Associate,0,43500
+42,Male,Bachelor's,Project Manager,9,131000
+35,Female,Bachelor's,Product Manager,17,147000
+24,Male,High School,Data Scientist,0,106000
+35,Male,PhD,Data Analyst,11,140500
+39,Female,PhD,Data Engineer,5,128500
+44,Male,High School,Sales Manager,10,119500
+35,Female,PhD,Data Engineer,6,151500
+34,Male,Master's,HR Manager,4,108500
+36,Male,Associate's,Operations Manager,14,131500
+38,Female,Bachelor's,Product Manager,9,126000
+26,Male,Bachelor's,Software Engineer,0,76500
+43,Female,Associate's,Sales Manager,13,127000
+,Male,Master's,IT Support,23,131500
+43,Female,PhD,Marketing Analyst,18,128000
+23,Female,Bachelor's,Financial Analyst,1,86500
+37,Female,Master's,Software Engineer,12,126500
+21,Male,Master's,Product Manager,0,130000
+21,Male,Associate's,Marketing Analyst,0,72000
+42,Male,PhD,Other,15,146500
+37,Female,High School,Data Scientist,10,125500
+30,Female,Associate's,Project Manager,6,123000
+21,Male,Bachelor's,Software Engineer,0,86500
+25,Female,Bachelor's,Product Manager,4,152000
+37,Female,,Software Engineer,8,138500
+36,Male,Associate's,IT Support,9,70000
+42,Female,Bachelor's,Project Manager,19,145500
+50,Male,Associate's,Data Engineer,22,128000
+33,Male,Bachelor's,Product Manager,19,172000
+40,Male,Bachelor's,Sales Associate,13,62000
+35,Male,Master's,Project Manager,7,121000
+32,Male,Master's,Product Manager,7,137000
+,Female,Master's,Software Engineer,9,124500
+45,Female,Bachelor's,Project Manager,25,146000
+27,Male,PhD,Sales Manager,8,128500
+46,Male,Master's,Project Manager,27,182500
+49,Male,High School,Marketing Analyst,25,110500
+36,Male,High School,Sales Associate,20,
+38,Male,Bachelor's,Other,17,106500
+23,Male,PhD,Other,0,106500
+57,Male,High School,Marketing Analyst,34,139000
+45,Male,Master's,Software Engineer,27,172000
+38,Female,Associate's,Data Analyst,7,87500
+37,Male,PhD,Data Engineer,15,151000
+40,Male,Associate's,IT Support,20,106000
+30,Female,Bachelor's,Software Engineer,10,144500
+39,Male,Bachelor's,Senior Manager,9,168500
+28,Female,PhD,Financial Analyst,3,114500
+40,Male,Bachelor's,Data Scientist,16,119500
+30,Female,Associate's,Financial Analyst,2,76000
+44,Female,Bachelor's,Marketing Analyst,19,112500
+35,Female,Bachelor's,Customer Service Rep,9,73500
+38,Male,Bachelor's,Data Analyst,17,116000
+62,Male,PhD,Data Scientist,34,241000
+43,Female,Master's,Data Engineer,23,155000
+38,Male,Bachelor's,Data Scientist,13,133500
+36,Male,Bachelor's,Marketing Analyst,19,"$350,000"
+27,Male,Master's,Financial Analyst,1,74500
+46,Female,Associate's,Data Engineer,15,140500
+50,Female,PhD,Data Engineer,23,163500
+37,Female,Master's,Data Analyst,12,114500
+51,Male,Bachelor's,Sales Manager,26,164000
+35,Female,Associate's,Product Manager,11,125500
+21,Female,High School,Sales Associate,8,61500
+30,Male,Bachelor's,Financial Analyst,0,48500
+26,Female,High School,Operations Manager,0,85500
+34,Female,Bachelor's,Other,14,91000
+42,Female,PhD,Data Analyst,17,137500
+28,Male,Bachelor's,Sales Associate,0,53500
+35,Female,Master's,Project Manager,16,147000
+38,Male,High School,Marketing Analyst,13,78500
+29,Male,Bachelor's,Sales Manager,1,90000
+28,Female,High School,IT Support,7,76500
+37,Male,Master's,Project Manager,9,144500
+44,Male,High School,Marketing Analyst,24,88000
+31,Male,PhD,IT Support,0,65500
+29,Male,Master's,Other,6,86500
+35,Male,High School,Marketing Analyst,14,84500
+39,Male,Associate's,Financial Analyst,13,97500
+31,Female,High School,Senior Manager,15,171000
+33,Male,PhD,Financial Analyst,9,116500
+34,Male,High School,Project Manager,10,110000
+26,Male,Master's,Sales Associate,0,47500
+34,Male,High School,Sales Manager,6,100000
+31,Male,Master's,Financial Analyst,0,85500
+50,Male,PhD,Data Engineer,29,203500
+31,Male,Bachelor's,Product Manager,12,141500
+40,Male,PhD,Senior Manager,23,214000
+39,Female,PhD,Data Scientist,11,154500
+26,Female, BACHELOR'S ,Product Manager,6,154500
+25,Male,Master's,Other,7,109000
+32,Male,Bachelor's,Marketing Analyst,2,66000
+42,Female,Bachelor's,HR Manager,12,112500
+31,Female,PhD,Operations Manager,8,137500
+30,Male,Associate's,Operations Manager,7,91500
+21,Male,High School,Senior Manager,0,139000
+32,Male,Master's,Product Manager,11,150500
+39,Female,Associate's,Sales Associate,19,88000
+40,Male,Associate's,Other,14,84500
+40,Male,PhD,Financial Analyst,15,119500
+33,Female,High School,Data Scientist,12,133500
+,Male,Bachelor's,Data Scientist,4,106000
+43,Female,Master's,Customer Service Rep,8,85000
+35,Male,Bachelor's,Data Analyst,15,107000
+21,Female,PhD,Financial Analyst,0,88500
+45,Male,Bachelor's,Sales Manager,31,194500
+26,Female,Master's,Marketing Analyst,0,67500
+48,Male,PhD,Data Analyst,30,179000
+51,Male,Bachelor's,Operations Manager,26,147500
+43,Female,Master's,Data Scientist,15,162000
+44,Male,Bachelor's,Senior Manager,15,182000
+53,Female,Master's,Sales Associate,34,145500
+26,Male,Master's,Software Engineer,,106500
+38,Female,Bachelor's,HR Manager,15,137000
+38,Female,PhD,Data Scientist,21,185500
+27,Male,Associate's,Software Engineer,6,93500
+54,Male,Bachelor's,IT Support,26,138000
+31,Female,Bachelor's,Marketing Analyst,1,66000
+29,Female,Associate's,Data Scientist,11,120000
+38,Male,Bachelor's,Software Engineer,18,166500
+45,Male,Master's,Sales Manager,24,176500
+31,Male,Master's,Software Engineer,0,88000
+31,Female,Master's,Data Analyst,9,96000
+41,Male,Master's,Software Engineer,16,126000
+23,Male,Master's,Data Scientist,0,136500
+29,Male,Bachelor's,Data Engineer,1,99500
+28,Male,High School,Data Analyst,0,48500
+32,Male,Bachelor's,Data Analyst,1,94500
+35,Female,Master's,Data Scientist,19,177000
+53,Female,PhD,Product Manager,27,214000
+44,Female,Bachelor's,Project Manager,18,151000
+36,Male,Bachelor's,Software Engineer,14,111000
+34,Male,PhD,Financial Analyst,4,108500
+44,Male,Master's,Operations Manager,13,138500
+40,Female,High School,IT Support,18,79000
+44,Male,Bachelor's,Data Engineer,27,170000
+48,Male,Master's,Customer Service Rep,34,138000
+27,Male,Associate's,Data Engineer,0,86500
+21,Male,Master's,Senior Manager,0,164000
+36,Male,Bachelor's,Customer Service Rep,10,72000
+37,Male,High School,HR Manager,12,122000
+39,Male,Bachelor's,Data Engineer,6,112000
+31,Male,Bachelor's,Software Engineer,13,106000
+34,Male,Bachelor's,HR Manager,10,107500
+41,Male,High School,Project Manager,20,156000
+42,Male,Associate's,Marketing Analyst,20,94000
+48,Male,Associate's,Financial Analyst,29 yrs,166500
+21,Female,Master's,Sales Manager,1,107500
+21,Female,Master's,Data Scientist,0,127000
+49,Male,Bachelor's,Data Scientist,23,141000
+41,Male,Bachelor's,HR Manager,22,136500
+43,Male,Bachelor's,Marketing Analyst,19,100500
+33,Female,High School,Senior Manager,14,177000
+32,Male,PhD,Data Analyst,4,98500
+38,Male,Master's,Data Analyst,9,81500
+28,Female,Master's,IT Support,0,71000
