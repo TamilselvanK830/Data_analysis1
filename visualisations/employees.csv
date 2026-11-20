@@ -1,0 +1,400 @@
+Age,Gender,Education Level,Job Title,Years of Experience,Salary
+29.0,Male,Bachelor's,Sales Manager,2.0,93500.0
+38.0,Female,Associate's,Other,18.0,102500.0
+21.0,Female,PhD,Data Engineer,0.0,117500.0
+49.0,Male,Master's,Hr Manager,22.0,145500.0
+42.0,Male,Bachelor's,Operations Manager,20.0,134500.0
+33.0,Male,High School,Sales Associate,7.0,31000.0
+33.0,Female,Master's,Software Engineer,9.0,123500.0
+39.0,Male,Master's,Sales Manager,8.0,112000.0
+34.0,Male,High School,Project Manager,5.0,96500.0
+34.0,Male,Bachelor's,Product Manager,8.0,141500.0
+42.0,Male,Master's,Hr Manager,6.0,116000.0
+41.0,Male,Bachelor's,Data Analyst,14.0,112000.0
+35.0,Male,Master's,Other,13.0,109500.0
+35.0,Female,Associate's,Product Manager,1.0,112500.0
+37.0,Female,Bachelor's,Financial Analyst,14.0,107000.0
+30.0,Male,Master's,Hr Manager,7.0,127500.0
+32.0,Male,Master's,Project Manager,12.0,160500.0
+41.0,Male,Bachelor's,Senior Manager,17.0,197000.0
+35.0,Female,Bachelor's,Software Engineer,6.0,93000.0
+24.0,Female,Bachelor's,Financial Analyst,8.0,99000.0
+32.0,Male,Master's,Hr Manager,8.0,128000.0
+42.0,Male,Bachelor's,Sales Associate,25.0,93500.0
+34.0,Male,High School,Data Scientist,2.0,106000.0
+35.0,Male,Master's,Data Analyst,10.0,89500.0
+42.0,Male,Associate's,Software Engineer,10.0,89000.0
+52.0,Male,Associate's,Operations Manager,28.0,153500.0
+30.0,Female,High School,Operations Manager,14.0,117500.0
+48.0,Male,Bachelor's,Other,25.0,141000.0
+25.0,Female,Bachelor's,Software Engineer,0.0,74500.0
+38.0,Female,Master's,Operations Manager,13.0,142000.0
+25.0,Male,Bachelor's,Data Analyst,0.0,68500.0
+48.0,Female,PhD,Data Engineer,27.0,189500.0
+44.0,Female,Bachelor's,Data Engineer,21.0,168000.0
+46.0,Male,Master's,Marketing Analyst,17.0,104000.0
+28.0,Female,Bachelor's,Sales Associate,0.0,55000.0
+42.0,Male,Associate's,Customer Service Rep,11.0,76500.0
+31.0,Female,PhD,Sales Associate,11.0,95000.0
+32.0,Male,Master's,It Support,16.0,121000.0
+41.0,Male,Master's,Data Engineer,24.0,182500.0
+44.0,Male,Associate's,Other,23.0,130000.0
+38.0,Female,High School,Operations Manager,15.0,133000.0
+30.0,Male,Bachelor's,Sales Manager,3.0,97000.0
+29.0,Female,High School,Data Analyst,14.0,112500.0
+49.0,Male,PhD,Customer Service Rep,32.0,155500.0
+41.0,Female,High School,Marketing Analyst,15.0,106000.0
+42.0,Male,Master's,Data Scientist,17.0,172000.0
+56.0,Male,Bachelor's,Senior Manager,33.0,227500.0
+29.0,Female,Bachelor's,Sales Associate,0.0,43500.0
+59.0,Female,Bachelor's,Marketing Analyst,34.0,152500.0
+62.0,Male,Bachelor's,Product Manager,33.0,191500.0
+51.0,Male,High School,Other,26.0,118500.0
+43.0,Male,Bachelor's,Financial Analyst,20.0,111000.0
+30.0,Male,PhD,Data Analyst,9.0,114500.0
+45.0,Male,Bachelor's,Software Engineer,29.0,169000.0
+32.0,Female,PhD,Financial Analyst,14.0,136000.0
+36.0,Male,Bachelor's,Data Scientist,13.0,125000.0
+33.0,Female,Master's,Senior Manager,13.0,185500.0
+39.0,Male,PhD,Other,18.0,121000.0
+48.0,Male,Bachelor's,Sales Manager,24.0,117000.0
+31.0,Male,Associate's,Hr Manager,0.0,107000.0
+27.0,Male,PhD,Data Engineer,0.0,128500.0
+27.0,Female,Master's,Sales Associate,2.0,58000.0
+27.0,Female,Bachelor's,Operations Manager,7.0,105500.0
+23.0,Male,Bachelor's,Data Analyst,0.0,68000.0
+28.0,Female,Associate's,Product Manager,2.0,116000.0
+48.0,Female,PhD,Financial Analyst,27.0,182000.0
+31.0,Female,Associate's,Sales Manager,4.0,107500.0
+38.0,Male,High School,Software Engineer,13.0,98000.0
+25.0,Male,Bachelor's,Sales Associate,0.0,48500.0
+38.0,Female,Bachelor's,Data Engineer,0.0,100500.0
+21.0,Male,Master's,Data Engineer,0.0,106500.0
+30.0,Female,High School,Hr Manager,3.0,87000.0
+56.0,Female,Master's,Data Analyst,33.0,167000.0
+31.0,Male,Associate's,Marketing Analyst,2.0,53500.0
+46.0,Male,Associate's,It Support,25.0,131500.0
+40.0,Male,PhD,Data Analyst,15.0,131000.0
+35.0,Male,PhD,Marketing Analyst,20.0,114500.0
+30.0,Female,Associate's,Data Engineer,0.0,86500.0
+48.0,Female,Master's,Marketing Analyst,18.0,104000.0
+34.0,Male,Bachelor's,Software Engineer,14.0,128500.0
+50.0,Male,PhD,Operations Manager,17.0,172000.0
+30.0,Female,PhD,Financial Analyst,4.0,93000.0
+37.0,Female,Master's,Data Engineer,9.0,129000.0
+40.0,Female,Bachelor's,Data Engineer,14.0,127500.0
+39.0,Female,PhD,Sales Associate,15.0,125500.0
+25.0,Male,Associate's,Data Engineer,0.0,91500.0
+30.0,Female,Associate's,Project Manager,7.0,122500.0
+34.0,Male,Master's,Data Scientist,15.0,162000.0
+28.0,Female,Bachelor's,Marketing Analyst,0.0,69500.0
+42.0,Female,Master's,Senior Manager,18.0,196000.0
+41.0,Male,High School,Financial Analyst,12.0,96500.0
+21.0,Male,High School,Financial Analyst,0.0,74500.0
+21.0,Male,Master's,Software Engineer,0.0,82000.0
+24.0,Female,High School,Data Analyst,8.0,67500.0
+37.0,Female,Associate's,Operations Manager,8.0,111500.0
+54.0,Female,Associate's,Sales Manager,27.0,173000.0
+33.0,Female,Master's,Other,12.0,96000.0
+38.0,Female,Associate's,Customer Service Rep,10.0,62000.0
+26.0,Male,Associate's,Software Engineer,0.0,55500.0
+95.0,Female,Bachelor's,Data Scientist,0.0,121500.0
+36.0,Female,High School,Sales Associate,15.0,82500.0
+45.0,Female,High School,It Support,25.0,104500.0
+33.0,Male,PhD,Customer Service Rep,16.0,116000.0
+49.0,Female,Bachelor's,Data Engineer,21.0,152500.0
+38.0,Male,PhD,Data Engineer,12.0,136500.0
+36.0,Male,Bachelor's,Sales Associate,19.0,81500.0
+41.0,Female,Bachelor's,Other,13.0,85000.0
+40.0,Male,Master's,Project Manager,10.0,121000.0
+46.0,Male,PhD,Marketing Analyst,11.0,117500.0
+29.0,Female,Master's,Data Scientist,4.0,139000.0
+21.0,Female,Master's,Software Engineer,0.0,79500.0
+37.0,Female,Master's,Data Engineer,20.0,169500.0
+30.0,Female,Master's,Software Engineer,0.0,93000.0
+36.0,Female,Master's,Product Manager,6.0,133000.0
+51.0,Male,High School,Product Manager,27.0,167500.0
+26.0,Male,Bachelor's,Product Manager,0.0,124500.0
+43.0,Male,High School,Project Manager,29.0,163500.0
+45.0,Male,High School,Other,19.0,108500.0
+40.0,Male,Master's,Senior Manager,13.0,183000.0
+46.0,Female,Associate's,Software Engineer,20.0,122000.0
+32.0,Female,PhD,Financial Analyst,3.0,88500.0
+30.0,Male,PhD,Customer Service Rep,1.0,60500.0
+45.0,Male,High School,Sales Manager,27.0,132500.0
+42.0,Male,Master's,Financial Analyst,15.0,130500.0
+49.0,Male,Bachelor's,Data Analyst,27.0,143500.0
+38.0,Female,PhD,Customer Service Rep,7.0,78500.0
+51.0,Male,Bachelor's,Data Analyst,24.0,122000.0
+33.0,Female,Master's,Sales Associate,3.0,44000.0
+26.0,Female,Master's,Product Manager,0.0,119500.0
+21.0,Female,Associate's,Software Engineer,0.0,60500.0
+26.0,Male,Master's,Data Engineer,12.0,143000.0
+43.0,Male,High School,Other,24.0,120500.0
+23.0,Female,PhD,Customer Service Rep,0.0,65500.0
+32.0,Female,High School,Hr Manager,5.0,64000.0
+55.0,Female,Master's,Sales Associate,29.0,141500.0
+44.0,Male,Bachelor's,Financial Analyst,19.0,114500.0
+52.0,Female,High School,Data Engineer,22.0,150500.0
+27.0,Female,Master's,Data Analyst,6.0,80000.0
+21.0,Male,Bachelor's,Hr Manager,0.0,87500.0
+50.0,Male,Bachelor's,Data Analyst,27.0,141500.0
+23.0,Male,Bachelor's,Project Manager,0.0,108000.0
+37.0,Female,High School,Software Engineer,11.0,97000.0
+38.0,Female,Associate's,Data Scientist,18.0,141000.0
+27.0,Female,Bachelor's,Marketing Analyst,7.0,59000.0
+50.0,Male,Bachelor's,Marketing Analyst,15.0,72500.0
+50.0,Female,Bachelor's,It Support,21.0,89000.0
+41.0,Female,Master's,Data Analyst,12.0,127000.0
+36.0,Female,Associate's,Customer Service Rep,13.0,68500.0
+38.0,Male,Bachelor's,Other,15.0,96500.0
+26.0,Male,PhD,Hr Manager,12.0,129500.0
+34.0,Male,Bachelor's,Project Manager,5.0,84000.0
+35.0,Male,High School,Financial Analyst,10.0,84000.0
+28.0,Female,High School,Operations Manager,0.0,93000.0
+44.0,Male,High School,Data Analyst,12.0,73000.0
+23.0,Male,Master's,Software Engineer,0.0,105500.0
+32.0,Male,High School,It Support,5.0,74000.0
+21.0,Male,Master's,It Support,0.0,63500.0
+40.0,Female,High School,Hr Manager,17.0,123000.0
+43.0,Male,Master's,Data Scientist,13.0,149000.0
+42.0,Female,High School,Data Scientist,26.0,180000.0
+62.0,Male,PhD,Senior Manager,34.0,250000.0
+44.0,Male,Bachelor's,Software Engineer,20.0,130000.0
+28.0,Female,Bachelor's,Sales Manager,2.0,107000.0
+60.0,Male,PhD,Marketing Analyst,34.0,163500.0
+28.0,Male,Master's,Customer Service Rep,7.0,65500.0
+43.0,Female,High School,Software Engineer,21.0,107000.0
+43.0,Female,Bachelor's,Operations Manager,18.0,127000.0
+28.0,Male,High School,Software Engineer,7.0,91000.0
+49.0,Female,Bachelor's,Sales Manager,32.0,149500.0
+39.0,Female,Master's,Sales Manager,4.0,107500.0
+41.0,Female,PhD,Data Analyst,13.0,124500.0
+30.0,Male,PhD,Senior Manager,10.0,187000.0
+48.0,Male,Associate's,Other,25.0,108500.0
+28.0,Male,High School,Sales Associate,4.0,57500.0
+21.0,Male,Master's,Data Analyst,0.0,78000.0
+49.0,Female,High School,Other,29.0,131000.0
+32.0,Female,Bachelor's,Data Analyst,11.0,98500.0
+36.0,Male,Associate's,Sales Associate,7.0,40500.0
+53.0,Male,Master's,Data Engineer,14.0,121000.0
+46.0,Female,Master's,Product Manager,17.0,171500.0
+42.0,Female,Associate's,Software Engineer,17.0,145000.0
+46.0,Male,PhD,Financial Analyst,28.0,169500.0
+29.0,Female,High School,Software Engineer,1.0,95000.0
+43.0,Female,PhD,Software Engineer,23.0,150500.0
+46.0,Female,Bachelor's,Marketing Analyst,16.0,110500.0
+43.0,Male,Master's,Project Manager,19.0,170000.0
+34.0,Male,Master's,Software Engineer,13.0,114500.0
+21.0,Male,Bachelor's,Customer Service Rep,0.0,51500.0
+41.0,Male,High School,Product Manager,17.0,156000.0
+37.0,Female,Master's,Data Analyst,15.0,104500.0
+33.0,Male,Associate's,Hr Manager,8.0,104500.0
+43.0,Female,High School,Sales Associate,7.0,74500.0
+38.0,Female,Master's,Software Engineer,11.0,123000.0
+38.0,Female,Bachelor's,Data Analyst,12.0,84500.0
+23.0,Male,Associate's,Other,7.0,64500.0
+23.0,Male,Bachelor's,Data Scientist,0.0,108000.0
+39.0,Female,Master's,Other,21.0,124000.0
+37.0,Female,Bachelor's,Hr Manager,11.0,107000.0
+37.0,Male,Associate's,Data Scientist,13.0,114500.0
+37.0,Female,Associate's,Financial Analyst,38.0,112500.0
+40.0,Male,Bachelor's,Project Manager,15.0,137000.0
+36.0,Female,Bachelor's,Other,18.0,131500.0
+37.0,Male,Bachelor's,Project Manager,13.0,124500.0
+38.0,Male,Bachelor's,Data Engineer,18.0,134500.0
+44.0,Male,Bachelor's,Data Scientist,25.0,162500.0
+31.0,Male,Master's,Data Analyst,7.0,101500.0
+43.0,Female,Master's,Data Engineer,13.0,128500.0
+42.0,Male,PhD,Other,16.0,129500.0
+37.0,Male,Bachelor's,Software Engineer,16.0,130500.0
+32.0,Female,Bachelor's,Sales Associate,2.0,46000.0
+39.0,Female,Master's,Marketing Analyst,5.0,99500.0
+44.0,Male,Bachelor's,Sales Associate,26.0,111500.0
+26.0,Male,Bachelor's,Marketing Analyst,8.0,93500.0
+37.0,Female,Associate's,Sales Manager,3.0,94000.0
+37.0,Female,Bachelor's,Other,15.0,80500.0
+30.0,Male,Master's,Sales Associate,1.0,76000.0
+30.0,Female,Master's,Other,9.0,112000.0
+22.0,Female,PhD,Sales Associate,0.0,69000.0
+26.0,Male,High School,Sales Associate,0.0,65000.0
+22.0,Female,Bachelor's,It Support,4.0,59000.0
+30.0,Male,Master's,Financial Analyst,0.0,89000.0
+31.0,Female,Bachelor's,Marketing Analyst,10.0,105000.0
+31.0,Male,Bachelor's,Financial Analyst,6.0,104500.0
+39.0,Male,Master's,Financial Analyst,16.0,119500.0
+37.0,Female,Master's,Sales Manager,7.0,110500.0
+29.0,Female,PhD,Product Manager,1.0,130000.0
+30.0,Male,High School,Data Engineer,9.0,106000.0
+26.0,Female,PhD,Project Manager,0.0,110500.0
+34.0,Female,PhD,Operations Manager,10.0,132500.0
+34.0,Female,Bachelor's,Marketing Analyst,7.0,64000.0
+51.0,Male,PhD,Software Engineer,23.0,153500.0
+50.0,Female,Bachelor's,Sales Associate,27.0,108500.0
+49.0,Female,High School,Project Manager,24.0,154500.0
+55.0,Female,Bachelor's,Data Engineer,26.0,149000.0
+25.0,Male,Bachelor's,Hr Manager,7.0,89000.0
+42.0,Female,Master's,Product Manager,18.0,159000.0
+43.0,Male,Master's,Operations Manager,7.0,106000.0
+40.0,Male,Bachelor's,Data Scientist,18.0,155000.0
+55.0,Female,Bachelor's,Marketing Analyst,22.0,110500.0
+59.0,Female,Bachelor's,Marketing Analyst,28.0,120000.0
+45.0,Male,Master's,Data Scientist,14.0,164000.0
+42.0,Female,Bachelor's,Data Engineer,12.0,123500.0
+26.0,Female,Bachelor's,Customer Service Rep,1.0,38500.0
+26.0,Female,Associate's,Sales Associate,0.0,43500.0
+42.0,Male,Bachelor's,Project Manager,9.0,131000.0
+35.0,Female,Bachelor's,Product Manager,17.0,147000.0
+24.0,Male,High School,Data Scientist,0.0,106000.0
+35.0,Male,PhD,Data Analyst,11.0,140500.0
+39.0,Female,PhD,Data Engineer,5.0,128500.0
+44.0,Male,High School,Sales Manager,10.0,119500.0
+35.0,Female,PhD,Data Engineer,6.0,151500.0
+34.0,Male,Master's,Hr Manager,4.0,108500.0
+36.0,Male,Associate's,Operations Manager,14.0,131500.0
+38.0,Female,Bachelor's,Product Manager,9.0,126000.0
+26.0,Male,Bachelor's,Software Engineer,0.0,76500.0
+43.0,Female,Associate's,Sales Manager,13.0,127000.0
+37.0,Male,Master's,It Support,23.0,131500.0
+43.0,Female,PhD,Marketing Analyst,18.0,128000.0
+23.0,Female,Bachelor's,Financial Analyst,1.0,86500.0
+37.0,Female,Master's,Software Engineer,12.0,126500.0
+21.0,Male,Master's,Product Manager,0.0,130000.0
+21.0,Male,Associate's,Marketing Analyst,0.0,72000.0
+42.0,Male,PhD,Other,15.0,146500.0
+37.0,Female,High School,Data Scientist,10.0,125500.0
+30.0,Female,Associate's,Project Manager,6.0,123000.0
+21.0,Male,Bachelor's,Software Engineer,0.0,86500.0
+25.0,Female,Bachelor's,Product Manager,4.0,152000.0
+37.0,Female,Bachelor's,Software Engineer,8.0,138500.0
+36.0,Male,Associate's,It Support,9.0,70000.0
+42.0,Female,Bachelor's,Project Manager,19.0,145500.0
+50.0,Male,Associate's,Data Engineer,22.0,128000.0
+33.0,Male,Bachelor's,Product Manager,19.0,172000.0
+40.0,Male,Bachelor's,Sales Associate,13.0,62000.0
+35.0,Male,Master's,Project Manager,7.0,121000.0
+32.0,Male,Master's,Product Manager,7.0,137000.0
+37.0,Female,Master's,Software Engineer,9.0,124500.0
+45.0,Female,Bachelor's,Project Manager,25.0,146000.0
+27.0,Male,PhD,Sales Manager,8.0,128500.0
+46.0,Male,Master's,Project Manager,27.0,182500.0
+49.0,Male,High School,Marketing Analyst,25.0,110500.0
+36.0,Male,High School,Sales Associate,20.0,114500.0
+38.0,Male,Bachelor's,Other,17.0,106500.0
+23.0,Male,PhD,Other,0.0,106500.0
+57.0,Male,High School,Marketing Analyst,34.0,139000.0
+45.0,Male,Master's,Software Engineer,27.0,172000.0
+38.0,Female,Associate's,Data Analyst,7.0,87500.0
+37.0,Male,PhD,Data Engineer,15.0,151000.0
+40.0,Male,Associate's,It Support,20.0,106000.0
+30.0,Female,Bachelor's,Software Engineer,10.0,144500.0
+39.0,Male,Bachelor's,Senior Manager,9.0,168500.0
+28.0,Female,PhD,Financial Analyst,3.0,114500.0
+40.0,Male,Bachelor's,Data Scientist,16.0,119500.0
+30.0,Female,Associate's,Financial Analyst,2.0,76000.0
+44.0,Female,Bachelor's,Marketing Analyst,19.0,112500.0
+35.0,Female,Bachelor's,Customer Service Rep,9.0,73500.0
+38.0,Male,Bachelor's,Data Analyst,17.0,116000.0
+62.0,Male,PhD,Data Scientist,34.0,241000.0
+43.0,Female,Master's,Data Engineer,23.0,155000.0
+38.0,Male,Bachelor's,Data Scientist,13.0,133500.0
+36.0,Male,Bachelor's,Marketing Analyst,19.0,350000.0
+27.0,Male,Master's,Financial Analyst,1.0,74500.0
+46.0,Female,Associate's,Data Engineer,15.0,140500.0
+50.0,Female,PhD,Data Engineer,23.0,163500.0
+37.0,Female,Master's,Data Analyst,12.0,114500.0
+51.0,Male,Bachelor's,Sales Manager,26.0,164000.0
+35.0,Female,Associate's,Product Manager,11.0,125500.0
+21.0,Female,High School,Sales Associate,8.0,61500.0
+30.0,Male,Bachelor's,Financial Analyst,0.0,48500.0
+26.0,Female,High School,Operations Manager,0.0,85500.0
+34.0,Female,Bachelor's,Other,14.0,91000.0
+42.0,Female,PhD,Data Analyst,17.0,137500.0
+28.0,Male,Bachelor's,Sales Associate,0.0,53500.0
+35.0,Female,Master's,Project Manager,16.0,147000.0
+38.0,Male,High School,Marketing Analyst,13.0,78500.0
+29.0,Male,Bachelor's,Sales Manager,1.0,90000.0
+28.0,Female,High School,It Support,7.0,76500.0
+37.0,Male,Master's,Project Manager,9.0,144500.0
+44.0,Male,High School,Marketing Analyst,24.0,88000.0
+31.0,Male,PhD,It Support,0.0,65500.0
+29.0,Male,Master's,Other,6.0,86500.0
+35.0,Male,High School,Marketing Analyst,14.0,84500.0
+39.0,Male,Associate's,Financial Analyst,13.0,97500.0
+31.0,Female,High School,Senior Manager,15.0,171000.0
+33.0,Male,PhD,Financial Analyst,9.0,116500.0
+34.0,Male,High School,Project Manager,10.0,110000.0
+26.0,Male,Master's,Sales Associate,0.0,47500.0
+34.0,Male,High School,Sales Manager,6.0,100000.0
+31.0,Male,Master's,Financial Analyst,0.0,85500.0
+50.0,Male,PhD,Data Engineer,29.0,203500.0
+31.0,Male,Bachelor's,Product Manager,12.0,141500.0
+40.0,Male,PhD,Senior Manager,23.0,214000.0
+39.0,Female,PhD,Data Scientist,11.0,154500.0
+26.0,Female,Bachelor's,Product Manager,6.0,154500.0
+25.0,Male,Master's,Other,7.0,109000.0
+32.0,Male,Bachelor's,Marketing Analyst,2.0,66000.0
+42.0,Female,Bachelor's,Hr Manager,12.0,112500.0
+31.0,Female,PhD,Operations Manager,8.0,137500.0
+30.0,Male,Associate's,Operations Manager,7.0,91500.0
+21.0,Male,High School,Senior Manager,0.0,139000.0
+32.0,Male,Master's,Product Manager,11.0,150500.0
+39.0,Female,Associate's,Sales Associate,19.0,88000.0
+40.0,Male,Associate's,Other,14.0,84500.0
+40.0,Male,PhD,Financial Analyst,15.0,119500.0
+33.0,Female,High School,Data Scientist,12.0,133500.0
+37.0,Male,Bachelor's,Data Scientist,4.0,106000.0
+43.0,Female,Master's,Customer Service Rep,8.0,85000.0
+35.0,Male,Bachelor's,Data Analyst,15.0,107000.0
+21.0,Female,PhD,Financial Analyst,0.0,88500.0
+45.0,Male,Bachelor's,Sales Manager,31.0,194500.0
+26.0,Female,Master's,Marketing Analyst,0.0,67500.0
+48.0,Male,PhD,Data Analyst,30.0,179000.0
+51.0,Male,Bachelor's,Operations Manager,26.0,147500.0
+43.0,Female,Master's,Data Scientist,15.0,162000.0
+44.0,Male,Bachelor's,Senior Manager,15.0,182000.0
+53.0,Female,Master's,Sales Associate,34.0,145500.0
+26.0,Male,Master's,Software Engineer,12.0,106500.0
+38.0,Female,Bachelor's,Hr Manager,15.0,137000.0
+38.0,Female,PhD,Data Scientist,21.0,185500.0
+27.0,Male,Associate's,Software Engineer,6.0,93500.0
+54.0,Male,Bachelor's,It Support,26.0,138000.0
+31.0,Female,Bachelor's,Marketing Analyst,1.0,66000.0
+29.0,Female,Associate's,Data Scientist,11.0,120000.0
+38.0,Male,Bachelor's,Software Engineer,18.0,166500.0
+45.0,Male,Master's,Sales Manager,24.0,176500.0
+31.0,Male,Master's,Software Engineer,0.0,88000.0
+31.0,Female,Master's,Data Analyst,9.0,96000.0
+41.0,Male,Master's,Software Engineer,16.0,126000.0
+23.0,Male,Master's,Data Scientist,0.0,136500.0
+29.0,Male,Bachelor's,Data Engineer,1.0,99500.0
+28.0,Male,High School,Data Analyst,0.0,48500.0
+32.0,Male,Bachelor's,Data Analyst,1.0,94500.0
+35.0,Female,Master's,Data Scientist,19.0,177000.0
+53.0,Female,PhD,Product Manager,27.0,214000.0
+44.0,Female,Bachelor's,Project Manager,18.0,151000.0
+36.0,Male,Bachelor's,Software Engineer,14.0,111000.0
+34.0,Male,PhD,Financial Analyst,4.0,108500.0
+44.0,Male,Master's,Operations Manager,13.0,138500.0
+40.0,Female,High School,It Support,18.0,79000.0
+44.0,Male,Bachelor's,Data Engineer,27.0,170000.0
+48.0,Male,Master's,Customer Service Rep,34.0,138000.0
+27.0,Male,Associate's,Data Engineer,0.0,86500.0
+21.0,Male,Master's,Senior Manager,0.0,164000.0
+36.0,Male,Bachelor's,Customer Service Rep,10.0,72000.0
+37.0,Male,High School,Hr Manager,12.0,122000.0
+39.0,Male,Bachelor's,Data Engineer,6.0,112000.0
+31.0,Male,Bachelor's,Software Engineer,13.0,106000.0
+34.0,Male,Bachelor's,Hr Manager,10.0,107500.0
+41.0,Male,High School,Project Manager,20.0,156000.0
+42.0,Male,Associate's,Marketing Analyst,20.0,94000.0
+48.0,Male,Associate's,Financial Analyst,29.0,166500.0
+21.0,Female,Master's,Sales Manager,1.0,107500.0
+21.0,Female,Master's,Data Scientist,0.0,127000.0
+49.0,Male,Bachelor's,Data Scientist,23.0,141000.0
+41.0,Male,Bachelor's,Hr Manager,22.0,136500.0
+43.0,Male,Bachelor's,Marketing Analyst,19.0,100500.0
+33.0,Female,High School,Senior Manager,14.0,177000.0
+32.0,Male,PhD,Data Analyst,4.0,98500.0
+38.0,Male,Master's,Data Analyst,9.0,81500.0
+28.0,Female,Master's,It Support,0.0,71000.0
