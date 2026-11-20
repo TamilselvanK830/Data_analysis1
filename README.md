@@ -1,32 +1,45 @@
 # Data Analysis Project
 
 ## Project Overview
+This project analyzes employee data using Python, Pandas, NumPy, Matplotlib and Seaborn.
 
-This repository contains my Python Data Analysis weekly assessment tasks.
+## Task 1 – Data Cleaning
+- Loaded employee dataset.
+- Checked missing values and duplicates.
+- Handled missing values.
+- Cleaned and prepared employee data.
+- Saved cleaned data as `clean_data.csv`.
 
-## Tasks Completed
+## Task 2 – Exploratory Data Analysis
+- Calculated mean, median, minimum, maximum and standard deviation.
+- Performed groupby and aggregation.
+- Analysed correlations between numerical columns.
+- Answered business questions using data.
+- Used merge to combine datasets.
 
-### Task 1 – Data Cleaning
-- Data inspection
-- Handling missing values
-- Removing duplicates
-- Data standardization
+## Task 3 – Data Visualisation
 
-### Task 2 – Exploratory Analysis
-- Summary statistics
-- GroupBy and aggregation
-- Correlation analysis
-- Business questions
-- Data merging
+### Visualisations Created
+1. Bar Chart – Average Salary by Education Level
+2. Histogram – Employee Salary Distribution
+3. Scatter Plot – Experience vs Salary
+4. Line Chart – Average Salary by Experience
+5. Box Plot – Salary Distribution by Gender
+6. Pie Chart – Employees by Gender
 
-## Tools Used
+### Tools and Libraries
 - Python
 - Pandas
 - NumPy
+- Matplotlib
+- Seaborn
 - Jupyter Notebook
-- Git and GitHub
-- 
-## Learning Progress
-- Data Cleaning
-- Exploratory Data Analysis
-- 
+
+### Project Files
+- `data_cleaning/`
+- `Exploratory Analysis/`
+- `visualisations/`
+- `reports/figures/`
+
+## Conclusion
+This project helped me learn data cleaning, exploratory data analysis and data visualisation using Python.
